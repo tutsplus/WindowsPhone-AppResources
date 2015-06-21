@@ -1,0 +1,52 @@
+c:\users\ines az\documents\visual studio 2013\Projects\MyLocalizedApp\MyLocalizedApp\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\ines az\documents\visual studio 2013\Projects\MyLocalizedApp\MyLocalizedApp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\ines az\documents\visual studio 2013\Projects\MyLocalizedApp\MyLocalizedApp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\ines az\documents\visual studio 2013\Projects\MyLocalizedApp\MyLocalizedApp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\ines az\documents\visual studio 2013\Projects\MyLocalizedApp\MyLocalizedApp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\ines az\documents\visual studio 2013\Projects\MyLocalizedApp\MyLocalizedApp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\ines az\documents\visual studio 2013\Projects\MyLocalizedApp\MyLocalizedApp\Bin\Debug\MyLocalizedApp.dll
+c:\users\ines az\documents\visual studio 2013\Projects\MyLocalizedApp\MyLocalizedApp\Bin\Debug\MyLocalizedApp.pdb
+c:\users\ines az\documents\visual studio 2013\Projects\MyLocalizedApp\MyLocalizedApp\Bin\Debug\AppManifest.xaml
+c:\users\ines az\documents\visual studio 2013\Projects\MyLocalizedApp\MyLocalizedApp\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\ines az\documents\visual studio 2013\Projects\MyLocalizedApp\MyLocalizedApp\Bin\Debug\MyLocalizedApp_Debug_AnyCPU.xap
+c:\users\ines az\documents\visual studio 2013\Projects\MyLocalizedApp\MyLocalizedApp\obj\Debug\App.g.cs
+c:\users\ines az\documents\visual studio 2013\Projects\MyLocalizedApp\MyLocalizedApp\obj\Debug\MainPage.g.cs
+c:\users\ines az\documents\visual studio 2013\Projects\MyLocalizedApp\MyLocalizedApp\obj\Debug\MyLocalizedApp.g.resources
+c:\users\ines az\documents\visual studio 2013\Projects\MyLocalizedApp\MyLocalizedApp\obj\Debug\MyLocalizedApp.Resources.AppResources.resources
+c:\users\ines az\documents\visual studio 2013\Projects\MyLocalizedApp\MyLocalizedApp\obj\Debug\MyLocalizedApp.csproj.GenerateResource.Cache
+c:\users\ines az\documents\visual studio 2013\Projects\MyLocalizedApp\MyLocalizedApp\obj\Debug\MyLocalizedApp.dll
+c:\users\ines az\documents\visual studio 2013\Projects\MyLocalizedApp\MyLocalizedApp\obj\Debug\MyLocalizedApp.pdb
+c:\users\ines az\documents\visual studio 2013\Projects\MyLocalizedApp\MyLocalizedApp\obj\Debug\XapCacheFile.xml
+c:\users\ines az\documents\visual studio 2013\Projects\MyLocalizedApp\MyLocalizedApp\Bin\Debug\ar\MyLocalizedApp.resources.dll
+c:\users\ines az\documents\visual studio 2013\Projects\MyLocalizedApp\MyLocalizedApp\Bin\Debug\fr\MyLocalizedApp.resources.dll
+c:\users\ines az\documents\visual studio 2013\Projects\MyLocalizedApp\MyLocalizedApp\obj\Debug\MyLocalizedApp.Resources.AppResources.ar.resources
+c:\users\ines az\documents\visual studio 2013\Projects\MyLocalizedApp\MyLocalizedApp\obj\Debug\MyLocalizedApp.Resources.AppResources.fr.resources
+c:\users\ines az\documents\visual studio 2013\Projects\MyLocalizedApp\MyLocalizedApp\obj\Debug\ar\MyLocalizedApp.resources.dll
+c:\users\ines az\documents\visual studio 2013\Projects\MyLocalizedApp\MyLocalizedApp\obj\Debug\fr\MyLocalizedApp.resources.dll
+c:\users\ines az\documents\visual studio 2013\Projects\MyLocalizedApp\MyLocalizedApp\obj\Debug\AboutTheApp.g.cs
+C:\Users\Ines Az\Desktop\Articles\Working with application resources\MyLocalizedApp\MyLocalizedApp\MyLocalizedApp\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Ines Az\Desktop\Articles\Working with application resources\MyLocalizedApp\MyLocalizedApp\MyLocalizedApp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Ines Az\Desktop\Articles\Working with application resources\MyLocalizedApp\MyLocalizedApp\MyLocalizedApp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Ines Az\Desktop\Articles\Working with application resources\MyLocalizedApp\MyLocalizedApp\MyLocalizedApp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Ines Az\Desktop\Articles\Working with application resources\MyLocalizedApp\MyLocalizedApp\MyLocalizedApp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Ines Az\Desktop\Articles\Working with application resources\MyLocalizedApp\MyLocalizedApp\MyLocalizedApp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Ines Az\Desktop\Articles\Working with application resources\MyLocalizedApp\MyLocalizedApp\MyLocalizedApp\Bin\Debug\MyLocalizedApp.dll
+C:\Users\Ines Az\Desktop\Articles\Working with application resources\MyLocalizedApp\MyLocalizedApp\MyLocalizedApp\Bin\Debug\MyLocalizedApp.pdb
+C:\Users\Ines Az\Desktop\Articles\Working with application resources\MyLocalizedApp\MyLocalizedApp\MyLocalizedApp\Bin\Debug\ar\MyLocalizedApp.resources.dll
+C:\Users\Ines Az\Desktop\Articles\Working with application resources\MyLocalizedApp\MyLocalizedApp\MyLocalizedApp\Bin\Debug\fr\MyLocalizedApp.resources.dll
+C:\Users\Ines Az\Desktop\Articles\Working with application resources\MyLocalizedApp\MyLocalizedApp\MyLocalizedApp\Bin\Debug\AppManifest.xaml
+C:\Users\Ines Az\Desktop\Articles\Working with application resources\MyLocalizedApp\MyLocalizedApp\MyLocalizedApp\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Ines Az\Desktop\Articles\Working with application resources\MyLocalizedApp\MyLocalizedApp\MyLocalizedApp\Bin\Debug\MyLocalizedApp_Debug_AnyCPU.xap
+C:\Users\Ines Az\Desktop\Articles\Working with application resources\MyLocalizedApp\MyLocalizedApp\MyLocalizedApp\obj\Debug\App.g.cs
+C:\Users\Ines Az\Desktop\Articles\Working with application resources\MyLocalizedApp\MyLocalizedApp\MyLocalizedApp\obj\Debug\AboutTheApp.g.cs
+C:\Users\Ines Az\Desktop\Articles\Working with application resources\MyLocalizedApp\MyLocalizedApp\MyLocalizedApp\obj\Debug\MainPage.g.cs
+C:\Users\Ines Az\Desktop\Articles\Working with application resources\MyLocalizedApp\MyLocalizedApp\MyLocalizedApp\obj\Debug\MyLocalizedApp.g.resources
+C:\Users\Ines Az\Desktop\Articles\Working with application resources\MyLocalizedApp\MyLocalizedApp\MyLocalizedApp\obj\Debug\MyLocalizedApp.Resources.AppResources.resources
+C:\Users\Ines Az\Desktop\Articles\Working with application resources\MyLocalizedApp\MyLocalizedApp\MyLocalizedApp\obj\Debug\MyLocalizedApp.Resources.AppResources.ar.resources
+C:\Users\Ines Az\Desktop\Articles\Working with application resources\MyLocalizedApp\MyLocalizedApp\MyLocalizedApp\obj\Debug\MyLocalizedApp.Resources.AppResources.fr.resources
+C:\Users\Ines Az\Desktop\Articles\Working with application resources\MyLocalizedApp\MyLocalizedApp\MyLocalizedApp\obj\Debug\MyLocalizedApp.csproj.GenerateResource.Cache
+C:\Users\Ines Az\Desktop\Articles\Working with application resources\MyLocalizedApp\MyLocalizedApp\MyLocalizedApp\obj\Debug\ar\MyLocalizedApp.resources.dll
+C:\Users\Ines Az\Desktop\Articles\Working with application resources\MyLocalizedApp\MyLocalizedApp\MyLocalizedApp\obj\Debug\fr\MyLocalizedApp.resources.dll
+C:\Users\Ines Az\Desktop\Articles\Working with application resources\MyLocalizedApp\MyLocalizedApp\MyLocalizedApp\obj\Debug\MyLocalizedApp.dll
+C:\Users\Ines Az\Desktop\Articles\Working with application resources\MyLocalizedApp\MyLocalizedApp\MyLocalizedApp\obj\Debug\MyLocalizedApp.pdb
+C:\Users\Ines Az\Desktop\Articles\Working with application resources\MyLocalizedApp\MyLocalizedApp\MyLocalizedApp\obj\Debug\XapCacheFile.xml
